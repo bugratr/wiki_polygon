@@ -78,156 +78,156 @@
 
 ---
 
-# Polygon Overview
+# Polygon Genel Bakış
 
-This section provides a comprehensive introduction to Polygon, its evolution, and its stack of solutions. It aims to give readers a clear understanding of what Polygon is, its strategic focus areas like Polygon 2.0, and the various components that make up its ecosystem.
+Bu bölüm, Polygon'un evrimini ve çözüm yığınını kapsamlı bir şekilde tanıtmaktadır. Okuyuculara Polygon'un ne olduğu, stratejik odak alanları gibi Polygon 2.0 ve ekosistemini oluşturan çeşitli bileşenler hakkında net bir anlayış sunmayı amaçlar.
 
-## What is Polygon?
+## Polygon Nedir?
 
-Polygon is a pioneering blockchain protocol engineered to act as a universal layer for digital value exchange. 
+Polygon, dijital değer değişimi için evrensel bir katman olarak işlev gören öncü bir blockchain protokolüdür.
 
 ### Matic Network -> Polygon
 
-Originally launched as Matic Network with the goal of scaling Ethereum through a hybrid Plasma sidechain, Polygon has undergone a transformative evolution. It has matured into a comprehensive suite of solutions designed to enhance Ethereum's scalability and versatility. This strategic transformation was a calculated move backed by extensive research and testing, all aimed at addressing the diverse needs of various use cases. In addition, the advent of zero-knowledge technology (zk-tech) marked a significant milestone, indicating that blockchains are now well-equipped to drive mass adoption.
+Başlangıçta Ethereum'u bir hibrid Plasma yan zinciri ile ölçeklemeyi amaçlayan Matic Network olarak piyasaya sürülen Polygon, dönüştürücü bir evrim geçirmiştir. Ethereum'un ölçeklenebilirliğini ve çok yönlülüğünü artırmak için tasarlanmış kapsamlı bir çözüm paketine dönüşmüştür. Bu stratejik dönüşüm, çeşitli kullanım durumlarının farklı ihtiyaçlarını ele almayı amaçlayan geniş kapsamlı araştırma ve testlerle desteklenmiştir. Ek olarak, sıfır bilgi teknolojisinin (zk-tech) ortaya çıkışı, blockchain teknolojisinin artık kitlesel benimseme için iyi donanımlı olduğunu gösteren önemli bir dönemeçtir.
 
-These diverse solutions are not standalone protocols; rather, they serve as integral components of a unified Polygon protocol. The upcoming iteration of Polygon aims to further refine and seamlessly integrate these components.
+Bu çeşitli çözümler bağımsız protokoller olarak var olmamaktadır; bunun yerine, birleşik bir Polygon protokolünün ayrılmaz bileşenleri olarak işlev görmektedirler. Polygon'un yaklaşan sürümü, bu bileşenleri daha da rafine etmeyi ve sorunsuz bir şekilde entegre etmeyi amaçlamaktadır.
 
 ### Polygon 2.0
 
-Building on these advancements, Polygon Labs has introduced "Polygon 2.0," a specialized protocol designed to establish a universal value layer for the internet. It achieves this by interconnecting a network of Layer 2 solutions, all of which are unified by seamless liquidity. In doing so, Polygon 2.0 seeks to push the boundaries of what blockchain technology can achieve, featuring:
+Bu gelişmeler üzerine inşa edilerek, Polygon Labs "Polygon 2.0" adlı, internet için evrensel bir değer katmanı oluşturmayı amaçlayan özel bir protokol tanıtmıştır. Bununla, tümü sorunsuz likidite ile birleştirilmiş Layer 2 çözümlerinin bir ağını birbirine bağlar. Böylece, Polygon 2.0, blockchain teknolojisinin ne başarabileceğinin sınırlarını zorlamayı hedeflemektedir, içerdiği özellikler:
 
-- **Universal Blockchain Access**: Democratizes access to blockchain technology, paving the way for mass adoption.
-- **Ethereum Synergy**: Aligns closely with Ethereum's roadmap to augment both scalability and functionality.
-- **Fluid Liquidity**: Establishes a cohesive liquidity ecosystem that seamlessly integrates various Layer 2 solutions.
-- **Interoperable Messaging & Composability**: Facilitates smooth communication and interaction across a diverse range of product suites and blockchain-based solutions.
-- **Adaptive Modularity**: Provides a flexible architecture that allows for easy customization and future upgrades.
-- **Near-Instant Transaction Finality**: Guarantees quick and reliable transaction confirmations, enhancing the overall user experience.
+- **Evrensel Blockchain Erişimi**: Blockchain teknolojisine erişimi demokratikleştirir, kitlesel benimseme için yolu açar.
+- **Ethereum Uyumu**: Hem ölçeklenebilirliği hem de işlevselliği artırmak için Ethereum'un yol haritasıyla yakından uyum sağlar.
+- **Akıcı Likidite**: Çeşitli Katman 2 çözümlerini sorunsuz bir şekilde entegre eden tutarlı bir likidite ekosistemi oluşturur.
+- **Etkileşimli Mesajlaşma ve Bileşenlik**: Çeşitli ürün paketleri ve blockchain tabanlı çözümler arasında sorunsuz iletişim ve etkileşim sağlar.
+- **Adaptif Modülerlik**: Kolay özelleştirme ve gelecekteki yükseltmeler için esnek bir mimari sağlar.
+- **Neredeyse Anlık İşlem Sonuçlanması**: Hızlı ve güvenilir işlem onayları garanti eder, genel kullanıcı deneyimini artırır.
 
-## Current Polygon Stack
+## Güncel Polygon Yığınağı
 
-As of today, Polygon offers a diverse range of products and solutions designed to meet various application needs. Below are the key product suites of the current Polygon stack:
+Bugüne kadar, Polygon çeşitli uygulama ihtiyaçlarını karşılamak üzere tasarlanmış bir ürün ve çözüm yelpazesi sunmaktadır. Aşağıda, mevcut Polygon yığınının ana ürün paketleri yer almaktadır:
 
 ### PoS
 
-The Proof-of-Stake (PoS) network serves as the backbone of Polygon's Layer 2 scaling solutions. It provides a secure and efficient platform for decentralized applications and transactions.
+Kanıta Dayalı Sahiplik (Proof-of-Stake, PoS) ağı, Polygon'un Katman 2 ölçekleme çözümlerinin omurgasını oluşturur. Merkezi olmayan uygulamalar ve işlemler için güvenli ve etkin bir platform sağlar.
 
 ### zkEVM
 
-zkEVM is Polygon's zero-knowledge-based Ethereum Virtual Machine. It aims to bring scalability and privacy to Ethereum-compatible blockchains.
+zkEVM, Polygon'un sıfır bilgi temelli Ethereum Sanal Makinesi'dir. Ethereum uyumlu blockhain'lere ölçeklenebilirlik ve gizlilik getirmeyi amaçlar.
 
 ### Supernets
 
-Supernets are application-specific chains that operate on the Polygon Edge consensus client with PolyBFT consensus. They offer scalability and interoperability for decentralized applications.
+Supernets, Polygon Edge konsensus istemcisi üzerinde PolyBFT konsensüsü ile çalışan uygulama özel zincirleridir. Merkezi olmayan uygulamalar için ölçeklenebilirlik ve etkileşimli çalışabilirlik sunarlar.
 
 ### Miden
 
-Miden is a fully EVM-compatible zk-rollup. It aims to provide a scalable and secure Layer 2 solution with the benefits of zero-knowledge proofs.
+Miden, tamamen EVM-uyumlu bir zk-rollup'tır. Sıfır bilgi kanıtlarının avantajları ile ölçeklenebilir ve güvenli bir Katman 2 çözümü sağlamayı amaçlar.
 
 ### ID
 
-Polygon ID is a decentralized identity solution that aims to provide secure and verifiable identity management on the blockchain.
+Polygon ID, blockchain üzerinde güvenli ve doğrulanabilir kimlik yönetimi sağlamayı amaçlayan merkezi olmayan bir kimlik çözümüdür.
 
-These components collectively form the current stack of Polygon, each serving specific needs while contributing to the ecosystem's overall scalability, security, and interoperability.
+Bu bileşenler topluca, her biri ekosistemin genel ölçeklenebilirliğine, güvenliğine ve etkileşimli çalışabilirliğine katkıda bulunurken belirli ihtiyaçları karşılar şekilde mevcut Polygon yığınını oluşturmaktadır.
 
-## Proposed Polygon 2.0 Stack
+## Önerilen Polygon 2.0 Yığınağı
 
-### Architecture
+### Mimari
 
-Polygon 2.0 is designed with a multi-layered architecture to provide a comprehensive solution for scalability, security, and interoperability. The architecture is composed of four core layers:
+Polygon 2.0, ölçeklenebilirlik, güvenlik ve etkileşimli çalışabilirlik için kapsamlı bir çözüm sağlamak üzere çok katmanlı bir mimari ile tasarlanmıştır. Mimari, dört ana katmandan oluşmaktadır:
 
-#### 1. Staking Layer
+#### 1. Staking Katmanı
 
-The Staking Layer serves as the backbone of the network, providing security and consensus. It is responsible for validator management and staking operations, ensuring the overall integrity of the network.
+Staking Katmanı, ağın omurgasını oluşturur ve güvenlik ile konsensus sağlar. Doğrulayıcı yönetimi ve staking operasyonlarından sorumludur, ağın genel bütünlüğünü sağlar.
 
-#### 2. Interop Layer
+#### 2. Etkileşimli Çalışabilirlik Katmanı
 
-The Interop Layer focuses on enabling seamless communication between different blockchain networks. It employs the LXLY bridge to facilitate the transfer of assets and data across multiple Layer 2 solutions and even other Layer 1 blockchains.
+Interop Katmanı, farklı blockchain ağları arasında sorunsuz iletişimi mümkün kılmaya odaklanır. Çeşitli Katman 2 çözümleri ve hatta diğer Katman 1 blockchain'leri arasında varlık ve veri transferini kolaylaştırmak için LXLY köprüsünü kullanır.
 
-#### 3. Execution Layer
+#### 3. Yürütme Katmanı
 
-This layer is where all the computation takes place. It supports various execution environments like zkEVM, zk-Rollups, and more, allowing developers to choose the best fit for their applications.
+Bu katman, tüm hesaplamaların gerçekleştiği yerdir. zkEVM, zk-Rollups gibi çeşitli yürütme ortamlarını destekler ve geliştiricilere uygulamaları için en uygun olanı seçme olanağı tanır.
 
-#### 4. Proving Layer
+#### 4. Kanıt Katmanı
 
-The Proving Layer is responsible for generating cryptographic proofs for the executed transactions. These proofs are then verified by the Staking Layer to finalize transactions.
+Kanıt Katmanı, gerçekleştirilen işlemler için kriptografik kanıtlar oluşturmaktan sorumludur. Bu kanıtlar daha sonra işlemleri sonlandırmak için Staking Katmanı tarafından doğrulanır.
 
-Together, these layers work in harmony to offer a scalable, secure, and interoperable ecosystem, pushing the boundaries of what blockchain technology can achieve.
+Birlikte, bu katmanlar ölçeklenebilir, güvenli ve etkileşimli bir ekosistem sunmak için uyum içinde çalışır, blockchain teknolojisinin başarabileceği sınırları zorlar.
 
-#### Modular Design
+#### Modüler Tasarım
 
-The modular nature of Polygon 2.0 allows developers to mix and match different components from each layer, creating a tailored solution for their specific application. This modularity extends to consensus mechanisms, execution environments, and data availability options.
+Polygon 2.0'ın modüler yapısı, geliştiricilerin her katmandan farklı bileşenleri bir araya getirmesine olanak tanır, böylece belirli bir uygulama için özelleştirilmiş bir çözüm oluştururlar. Bu modülerlik, konsensus mekanizmaları, yürütme ortamları ve veri erişilebilirlik seçeneklerine de uzanır.
 
-#### Future-Proof
+#### Geleceğe Dayanıklı
 
-Polygon 2.0 is designed to be future-proof, with the ability to integrate new technologies as they emerge. This ensures that the framework remains at the forefront of the rapidly evolving blockchain landscape.
+Polygon 2.0, ortaya çıktıkça yeni teknolojileri entegre etme yeteneği ile geleceğe dayanıklı olarak tasarlanmıştır. Bu, çerçevenin hızla gelişen blockchain manzarasının ön saflarında kalmasını sağlar.
 
-The following diagram illustrates the various layers of Polygon 2.0.
+Aşağıdaki diyagram, Polygon 2.0'ın çeşitli katmanlarını göstermektedir.
 
 <p align="center">
 <img align="center" src="/static/img/readme/polygon2.0-layers.png" width="900">
 </p>
 
-### Governance
+### Yönetişim
 
-Polygon 2.0 introduces a forward-looking framework for decentralized governance, aiming to give the community full control over the Polygon network. This governance model is inspired by proven blockchain governance systems, particularly Ethereum's. The framework is built on three main pillars: Protocol Governance, System Smart Contracts Governance, and Community Treasury Governance.
+Polygon 2.0, topluluğa Polygon ağı üzerinde tam kontrol vermayı amaçlayan ileriye dönük bir merkezi olmayan yönetişim çerçevesi sunar. Bu yönetişim modeli, özellikle Ethereum'unki gibi kanıtlanmış blockchain yönetişim sistemlerinden ilham alır. Çerçeve, üç ana temel üzerine inşa edilmiştir: Protokol Yönetişimi, Sistem Akıllı Sözleşmeleri Yönetişimi ve Topluluk Hazinesi Yönetişimi.
 
-#### Three Governance Pillars
+#### Üç Yönetişim Temeli
 
-1. **Protocol Governance**: The Polygon Improvement Proposal (PIP) framework serves as an open platform for the development of Polygon protocols. In Polygon 2.0, the PIP framework will cover the entire permissionless stack, allowing the community to propose and research upgrades.
+1. **Protokol Yönetişimi**: Polygon İyileştirme Önerisi (PIP) çerçevesi, Polygon protokollerinin geliştirilmesi için açık bir platform olarak hizmet verir. Polygon 2.0'da, PIP çerçevesi tüm izinsiz yığına kapsam sağlayacak ve topluluğun yükseltmeleri önermesine ve araştırmasına olanak tanıyacaktır.
 
-2. **System Smart Contracts Governance**: This pillar focuses on the upgradeability of protocol components implemented as smart contracts. An Ecosystem Council, governed by the community, will be responsible for these upgrades. The council will operate under a tailor-made governance framework designed for secure and scalable decision-making.
+2. **Sistem Akıllı Sözleşmeleri Yönetişimi**: Bu temel, akıllı sözleşmeler olarak uygulanan protokol bileşenlerinin yükseltilebilirliğine odaklanır. Topluluk tarafından yönetilen bir Ekosistem Konseyi, bu yükseltmelerden sorumlu olacaktır. Konsey, güvenli ve ölçeklenebilir karar verme için özel olarak tasarlanmış bir yönetişim çerçevesi altında çalışacaktır.
 
-3. **Community Treasury Governance**: A self-sustainable Community Treasury will be established to fund public goods and support promising ecosystem projects. The governance of this treasury will evolve from an initial board to more explicit community-driven governance mechanisms.
+3. **Topluluk Hazinesi Yönetişimi**: Kendini sürdürebilir bir Topluluk Hazinesi, kamu yararına olan projeleri finanse etmek ve umut verici ekosistem projelerini desteklemek için kurulacaktır. Bu hazine'nin yönetişimi, başlangıçtaki bir kuruldan daha açık topluluk tarafından yönlendirilen yönetişim mekanizmalarına evrilecektir.
 
 <p align="center">
 <img align="center" src="/static/img/readme/polygon2.0-governance-pillars.png" width="900">
 </p>
 
-#### Community Involvement
+#### Topluluk Katılımı
 
-Community feedback and participation are integral to the governance process. Various channels, including forum posts and community calls, are used to gather feedback from validators, users, infrastructure providers, and dApp developers.
+Topluluk geri bildirimleri ve katılımı, yönetişim sürecinin ayrılmaz bir parçasıdır. Doğrulayıcılar, kullanıcılar, altyapı sağlayıcılar ve dApp geliştiricilerinden geri bildirim almak için çeşitli kanallar, forum gönderileri ve topluluk çağrıları dahil, kullanılır.
 
-### Tokenomics
+### Tokenomik
 
-Polygon's native token, MATIC, has been pivotal in the network's growth since its inception in 2020. With the introduction of Polygon 2.0, a new token, **POL**, is proposed as a technical upgrade to MATIC. POL is designed to be a third-generation hyperproductive token, offering a range of utilities and incentives to its holders.
+Polygon'un yerel tokeni MATIC, 2020'deki kuruluşundan bu yana ağın büyümesinde kilit bir rol oynamıştır. Polygon 2.0'ın tanıtılmasıyla, MATIC'e teknik bir yükseltme olarak yeni bir token, **POL**, önerilmektedir. POL, sahiplerine çeşitli faydalar ve teşvikler sunacak şekilde tasarlanmış üçüncü nesil hiper üretken bir token olarak tasarlanmıştır.
 
-#### Key Features of POL
+#### POL'un Ana Özellikleri
 
-- **Third-Generation Token**: POL introduces the concept of hyperproductive tokens. Unlike first and second-generation tokens, POL enables its holders to validate multiple chains and assume multiple roles within those chains, thereby offering practically unlimited opportunities.
+- **Üçüncü Nesil Token**: POL, hiper üretken token kavramını tanıtır. İlk ve ikinci nesil tokenlerin aksine, POL sahiplerinin birden fazla zinciri doğrulamasına ve bu zincirler içinde birden fazla rol üstlenmesine olanak tanır, bu sayede pratiğe dökülebilir sınırsız fırsatlar sunar.
 
-- **Major Benefits**: POL aims to provide ecosystem security, infinite scalability, and community ownership without introducing friction for users and developers.
+- **Büyük Faydalar**: POL, kullanıcılar ve geliştiriciler için sürtünme yaratmadan ekosistem güvenliği, sonsuz ölçeklenebilirlik ve topluluk sahipliği sağlamayı amaçlar.
 
-- **Multifold Utility and Incentives**: Validators are required to stake POL to join the validator set. Once staked, they can validate any Polygon chain and establish multiple streams of incentives, including protocol rewards, transaction fees, and additional rewards.
+- **Çok Yönlü Fayda ve Teşvikler**: Doğrulayıcılar, doğrulayıcı kümesine katılmak için POL yatırmak zorundadır. Bir kez yatırıldığında, herhangi bir Polygon zincirini doğrulayabilir ve protokol ödülleri, işlem ücretleri ve ekstra ödüller dahil olmak üzere birden fazla teşvik akışı oluşturabilirler.
 
-- **Future-Proof Ecosystem**: POL will have a continuous emission to fund a Community Treasury, which will be governed by the Polygon community. This treasury will support protocol development, research, ecosystem grants, and adoption incentives.
+- **Geleceğe Dayanıklı Ekosistem**: POL, bir Topluluk Hazinesini finanse etmek için sürekli bir emisyona sahip olacaktır, bu hazine Polygon topluluğu tarafından yönetilecektir. Bu hazine, protokol gelişimini, araştırmayı, ekosistem burslarını ve benimsenme teşviklerini destekleyecektir.
 
-- **Seamless Upgrade**: The transition from MATIC to POL will be facilitated through a simple technical action. Token holders will send MATIC to an upgrade smart contract, which will automatically return the equivalent amount of POL.
+- **Problemsiz Yükseltme**: MATIC'ten POL'a geçiş, basit bir teknik işlemle kolaylaştırılacaktır. Token sahipleri MATIC'i bir yükseltme akıllı sözleşmesine gönderecek ve bu otomatik olarak eşdeğer miktarda POL döndürecektir.
 
-### Evolution of Polygon's Development Frameworks
+### Polygon'un Geliştirme Çerçevelerinin Evrimi
 
-Polygon's blockchain development framework to build sovereign blockchains have evolved significantly over time, each iteration bringing new features and capabilities. Below is a comparative table that outlines the key differences and features of Polygon Edge, Supernets, and the latest Chain Development Kit (CDK).
+Polygon'un egemen blok zincirleri inşa etmek için blok zinciri geliştirme çerçevesi zamanla önemli ölçüde evrim geçirmiştir, her iterasyon yeni özellikler ve yetenekler getirmiştir. Aşağıda, Polygon Edge, Supernets ve en son Zincir Geliştirme Kiti (CDK) arasındaki ana farkları ve özellikleri özetleyen bir karşılaştırma tablosu bulunmaktadır.
 
-#### Framework Comparison
+#### Çerçeve Karşılaştırması
 
-| Feature             |  Edge        | Supernets | CDK                         |
-|---------------------|--------------|-----------|-----------------------------|
-| **Layer**           | Layer 3      | Layer 3   | Layer 2                     |
-| **Consensus**       | IBFT         | PolyBFT   | zk-based / PolyBFT          |
-| **Focus**           | App-Chains               | App-Chains, Infrastructure, & Customizations | App-Chains, Infrastructure, Customizations, Modular Development, Cost-Reduction |
-| **Scalability**     | Limited      | Extended Block Space | Boundless                    |
-| **Interoperability**| Limited      | Custom Native Bridge       | Universal Layered Bridge |
-| **Governance**      | N/A          | Customizable   | Customizable                         |
-| **Data Availability**| On-chain    | On-chain       | Customizable                |
-| **Modularity**      | Limited           | Limited        | Yes                         |
-| **Components**      | Edge client + core contracts on Ethereum                      | Edge client + EVM-based rootchain + sovereign core contracts               | Customizable components part of Polygon 2.0 |
+| Özellik              |  Edge       | Supernets  | CDK                           |
+|---------------------|-------------|------------|-------------------------------|
+| **Katman**          | Katman 3    | Katman 3   | Katman 2                       |
+| **Konsensus**       | IBFT        | PolyBFT    | zk-tabanlı / PolyBFT          |
+| **Odak**            | Uygulama Zincirleri| Uygulama Zincirleri, Altyapı ve Özelleştirmeler | Uygulama Zincirleri, Altyapı, Özelleştirmeler, Modüler Geliştirme, Maliyet Azaltma |
+| **Ölçeklenebilirlik**| Sınırlı    | Genişletilmiş Blok Alanı | Sınırsız                    |
+| **Entegrasyon**     | Sınırlı     | Özel Yerel Köprü          | Evrensel Katmanlı Köprü     |
+| **Yönetişim**       | Yok        | Özelleştirilebilir | Özelleştirilebilir           |
+| **Veri Erişilebilirliği**| Zincir İçi| Zincir İçi | Özelleştirilebilir            |
+| **Modülerlik**      | Sınırlı     | Sınırlı    | Evet                           |
+| **Bileşenler**      | Edge istemcisi + Ethereum'da çekirdek sözleşmeler | Edge istemcisi + EVM-tabanlı kök zincir + egemen çekirdek sözleşmeler | Polygon 2.0'ın bir parçası olan özelleştirilebilir bileşenler |
 
-#### Key Takeaways
+#### Ana Çıkarımlar
 
-- **Polygon Edge**: Initially served as an SDK for launching app-chains to build Ethereum compatible blockchain networks, functioning as Layer 3 solutions.
-  
-- **Polygon Supernets**: Evolved from Edge to tackle the complexities of infrastructure development and bootstrapping for app-chains. Supernets also provide enhanced interoperability and customization options, also operating as Layer 3 solutions.
+- **Polygon Edge**: İlk olarak, Ethereum uyumlu blok zinciri ağları oluşturmak için uygulama zincirleri başlatmak amacıyla bir SDK olarak hizmet verdi, Katman 3 çözümleri olarak işlev gördü.
 
-- **Polygon CDK**: The most recent and sophisticated iteration, the CDK concentrates on Layer 2 solutions. It embodies modularity and customization, leveraging cutting-edge protocol primitives from Polygon 2.0. This enables developers to architect chains tailored to their unique requirements.
+- **Polygon Supernets**: Edge'den evrim geçirerek uygulama zincirleri için altyapı geliştirme ve önyükleme karmaşıklıklarıyla başa çıkmayı amaçlar. Supernets, ayrıca gelişmiş entegrasyon ve özelleştirme seçenekleri sunar, aynı zamanda Katman 3 çözümleri olarak işlev görür.
+
+- **Polygon CDK**: En yeni ve sofistike iterasyon olan CDK, Katman 2 çözümlerine odaklanır. Modülerliği ve özelleştirilebilirliği somutlaştırır, Polygon 2.0'dan keskin protokol ilkelini kullanır. Bu, geliştiricilerin benzersiz gereksinimlere uygun zincirler mimarlamalarını sağlar.
 
 <p align="center">
 <img align="center" src="/static/img/readme/polygon2.0-layers-1.png" width="900">
@@ -235,69 +235,68 @@ Polygon's blockchain development framework to build sovereign blockchains have e
 
 https://github.com/0xPolygon/wiki/assets/25497083/d848aecf-7f20-41d1-8382-80a41c622b25
 
-## Key Polygon Repositories
+## Ana Polygon Depoları
 
-Explore the core codebases that power the Polygon ecosystem. This section provides quick links and descriptions for our most essential repositories, serving as a starting point for developers, enterprises, and community members alike.
+Polygon ekosistemini güçlendiren temel kod tabanlarını keşfedin. Bu bölüm, geliştiriciler, şirketler ve topluluk üyeleri için bir başlangıç noktası olarak en temel depolar için hızlı bağlantılar ve açıklamalar sunar.
 
-### Polygon 2.0 Repositories under 0xPolygon
+### 0xPolygon Altında Polygon 2.0 Depoları
 
-| Category                 | Repository Name                                                     | Description                                                                                     |
-|--------------------------|---------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-| **Edge**                 | [Polygon Edge](https://github.com/0xPolygon/polygon-edge)            | A repository for Polygon's edge services.                                                       |
-| **CDK**                  | [CDK Validium Node](https://github.com/0xPolygon/cdk-validium-node)  | A CDK for Validium node deployment.                                                             |
-|                          | [CDK Data Availability](https://github.com/0xPolygon/cdk-data-availability)| A CDK for data availability solutions.                                                          |
-|                          | [CDK Validium Contracts](https://github.com/0xPolygon/cdk-validium-contracts)| Smart contract implementation which will be used by CDK Validium.                                 |
-| **Core**                 | [Core Contracts](https://github.com/0xPolygon/core-contracts)        | Smart contracts that form the core of the Polygon network.                                      |
-| **DApps and Explorers**  | [DApp Explorer Polygon](https://github.com/0xPolygon/dapp-explorer-polygon)| A DApp explorer for the Polygon network.                                                        |
-| **Bridges and Interoperability** | [PoS ZkEVM Bridge](https://github.com/0xPolygon/pos-zkevm-bridge)| A bridge for ZkEVM in a PoS environment.                                                        |
-| **Tools**                | [Gas Swapper](https://github.com/0xPolygon/gas-swapper)              | A tool for gas swapping.                                                                        |
-|                          | [Indicia](https://github.com/0xPolygon/indicia)                      | A repository for Indicia, a Polygon service.                                                    |
-| **ZkEVM**                | [ZkEVM Wrapper](https://github.com/0xPolygon/zkevm-wrapper)           | Wrapper contracts for transferring ETH and ERC20 tokens to ZkEVM.                               |
-| **Economic Models**      | [Polygon 2.0 Economic Model](https://github.com/0xPolygon/polygon2.0-economic-model)| A simulation model to study validator incentives and ecosystem security in Polygon 2.0.         |
+| Kategori                 | Depo Adı                                                         | Açıklama                                                                                       |
+|--------------------------|------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| **Edge**                 | [Polygon Edge](https://github.com/0xPolygon/polygon-edge)         | Polygon'un kenar hizmetleri için bir depo.                                                     |
+| **CDK**                  | [CDK Validium Node](https://github.com/0xPolygon/cdk-validium-node)| Validium düğümü dağıtımı için bir CDK.                                                         |
+|                          | [CDK Veri Erişilebilirliği](https://github.com/0xPolygon/cdk-data-availability)| Veri erişilebilirlik çözümleri için bir CDK.                                                   |
+|                          | [CDK Validium Sözleşmeler](https://github.com/0xPolygon/cdk-validium-contracts)| CDK Validium tarafından kullanılacak olan akıllı sözleşme uygulaması.                           |
+| **Çekirdek**             | [Çekirdek Sözleşmeler](https://github.com/0xPolygon/core-contracts)| Polygon ağının çekirdeğini oluşturan akıllı sözleşmeler.                                       |
+| **DApps ve Keşif**       | [DApp Keşif Polygon](https://github.com/0xPolygon/dapp-explorer-polygon)| Polygon ağı için bir DApp keşif platformu.                                                      |
+| **Köprüler ve Entegrasyon** | [PoS ZkEVM Köprü](https://github.com/0xPolygon/pos-zkevm-bridge)| PoS ortamında ZkEVM için bir köprü.                                                             |
+| **Araçlar**              | [Gaz Değiştirici](https://github.com/0xPolygon/gas-swapper)        | Gaz değişimi için bir araç.                                                                     |
+|                          | [Indicia](https://github.com/0xPolygon/indicia)                   | Indicia, bir Polygon servisi için bir depo.                                                     |
+| **ZkEVM**                | [ZkEVM Sarıcı](https://github.com/0xPolygon/zkevm-wrapper)         | ETH ve ERC20 tokenlerini ZkEVM'e transfer etmek için sarıcı sözleşmeler.                        |
+| **Ekonomik Modeller**    | [Polygon 2.0 Ekonomik Model](https://github.com/0xPolygon/polygon2.0-economic-model)| Polygon 2.0'da doğrulayıcı teşvikleri ve ekosistem güvenliğini incelemek için bir simülasyon modeli.  |
 
-### zkEVM Repositories under 0xPolygonHermez
+### 0xPolygonHermez Altında zkEVM Depoları
 
-| Category                 | Repository Name                                                     | Description                                                                                     |
-|--------------------------|---------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-| **Prover**              | [zkEVM Prover](https://github.com/0xPolygonHermez/zkevm-prover)      | Prover for ZkEVM.                                                                               |
-| **Node**                | [zkEVM Node](https://github.com/0xPolygonHermez/zkevm-node)          | Node implementation for ZkEVM.                                                                  |
-| **Contracts**            | [zkEVM Contracts](https://github.com/0xPolygonHermez/zkevm-contracts)| Smart contracts for ZkEVM.                                                                      |
-| **Bridge Service**      | [zkEVM Bridge Service](https://github.com/0xPolygonHermez/zkevm-bridge-service)| Bridge service for ZkEVM.                                                                       |
-| **PIL Libraries**      | [PIL2 Stark JS](https://github.com/0xPolygonHermez/pil2-stark-js)    | JavaScript library for PIL2 STARKs.                                                             |
-|                          | [PILCOM](https://github.com/0xPolygonHermez/pilcom)                  | PILCOM library for ZkEVM.                                                                       |
-| **Test Vectors**         | [zkEVM Test Vectors](https://github.com/0xPolygonHermez/zkevm-testvectors)| Test vectors for ZkEVM.                                                                         |
-| **Common Libraries**     | [zkEVM CommonJS](https://github.com/0xPolygonHermez/zkevm-commonjs)  | CommonJS library for ZkEVM.                                                                     |
-| **Communication Protocols** | [zkEVM Comms Protocol](https://github.com/0xPolygonHermez/zkevm-comms-protocol)| Communication protocol for ZkEVM.                                                               |
-| **JavaScript Provers**   | [zkEVM ProverJS](https://github.com/0xPolygonHermez/zkevm-proverjs)  | JavaScript prover for ZkEVM.                                                                    |
-| **Goldilocks**           | [Goldilocks](https://github.com/0xPolygonHermez/goldilocks)          | Goldilocks library for ZkEVM.                                                                   |
-| **PIL STARK**            | [PIL STARK](https://github.com/0xPolygonHermez/pil-stark)            | PIL STARK library for ZkEVM.                                                                    |
-| **ROM**                  | [zkEVM ROM](https://github.com/0xPolygonHermez/zkevm-rom)            | Read-Only Memory for ZkEVM.                                                                     |
-| **ASM Compiler**         | [zkASMCOM](https://github.com/0xPolygonHermez/zkasmcom)              | ZkASM compiler for ZkEVM.                                                                       |
+| Kategori                  | Depo Adı                                                            | Açıklama                                                                                       |
+|---------------------------|---------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| **Kanıtlayıcı (Prover)**  | [zkEVM Kanıtlayıcı](https://github.com/0xPolygonHermez/zkevm-prover)  | ZkEVM için kanıtlayıcı.                                                                         |
+| **Düğüm (Node)**          | [zkEVM Düğüm](https://github.com/0xPolygonHermez/zkevm-node)         | ZkEVM için düğüm uygulaması.                                                                    |
+| **Sözleşmeler**           | [zkEVM Sözleşmeler](https://github.com/0xPolygonHermez/zkevm-contracts)| ZkEVM için akıllı sözleşmeler.                                                                  |
+| **Köprü Hizmeti**         | [zkEVM Köprü Hizmeti](https://github.com/0xPolygonHermez/zkevm-bridge-service)| ZkEVM için köprü hizmeti.                                                                       |
+| **PIL Kütüphaneleri**     | [PIL2 Stark JS](https://github.com/0xPolygonHermez/pil2-stark-js)    | PIL2 STARK'lar için JavaScript kütüphanesi.                                                     |
+|                           | [PILCOM](https://github.com/0xPolygonHermez/pilcom)                  | ZkEVM için PILCOM kütüphanesi.                                                                  |
+| **Test Vektörleri**       | [zkEVM Test Vektörleri](https://github.com/0xPolygonHermez/zkevm-testvectors)| ZkEVM için test vektörleri.                                                                     |
+| **Ortak Kütüphaneler**    | [zkEVM CommonJS](https://github.com/0xPolygonHermez/zkevm-commonjs)  | ZkEVM için CommonJS kütüphanesi.                                                                |
+| **İletişim Protokolleri** | [zkEVM İletişim Protokolü](https://github.com/0xPolygonHermez/zkevm-comms-protocol)| ZkEVM için iletişim protokolü.                                                                  |
+| **JavaScript Kanıtlayıcılar** | [zkEVM ProverJS](https://github.com/0xPolygonHermez/zkevm-proverjs) | ZkEVM için JavaScript kanıtlayıcı.                                                              |
+| **Goldilocks**            | [Goldilocks](https://github.com/0xPolygonHermez/goldilocks)          | ZkEVM için Goldilocks kütüphanesi.                                                              |
+| **PIL STARK**             | [PIL STARK](https://github.com/0xPolygonHermez/pil-stark)            | ZkEVM için PIL STARK kütüphanesi.                                                               |
+| **ROM**                   | [zkEVM ROM](https://github.com/0xPolygonHermez/zkevm-rom)            | ZkEVM için Salt Okunur Bellek (Read-Only Memory).                                               |
+| **ASM Derleyici**         | [zkASMCOM](https://github.com/0xPolygonHermez/zkasmcom)              | ZkEVM için ZkASM derleyici.                                                                     |
+### MaticNetwork Altında Polygon PoS Depoları
 
-### Polygon PoS Repositories under MaticNetwork
-
-| Category                 | Repository Name                                                     | Description                                                                                     |
-|--------------------------|---------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-| **Core Components**      | [Heimdall](https://github.com/maticnetwork/heimdall)                 | Heimdall layer for PoS Network.                                                               |
-|                          | [Bor](https://github.com/maticnetwork/bor)                           | Bor node for PoS Network.                                                                     |
-|                          | [Tendermint](https://github.com/maticnetwork/tendermint)             | Tendermint fork for PoS consensus engine.                                                                    |
-|                          | [Cosmos SDK](https://github.com/maticnetwork/cosmos-sdk)             | Cosmos SDK fork for PoS Network.                                                                   |
-| **Token Management**     | [Polygon Token List](https://github.com/maticnetwork/polygon-token-list)| A list of tokens on the PoS network.                                                        |
-|                          | [Polygon Token Assets](https://github.com/maticnetwork/polygon-token-assets)| Token assets for the PoS network.                                                           |
-| **Subgraphs**            | [Subgraphs](https://github.com/maticnetwork/subgraphs)               | Subgraphs for PoS Network.                                                                    |
-| **CLI Tools**            | [Matic CLI](https://github.com/maticnetwork/matic-cli)               | Command-line interface for PoS Network.                                                        |
-|                          | [Polygon CLI](https://github.com/maticnetwork/polygon-cli)           | Command-line interface for Polygon.                                                              |
-| **Gas Management**       | [Matic Gas Station](https://github.com/maticnetwork/maticgasstation)  | Gas station for PoS Network.                                                                  |
-| **Portals and Bridges**  | [PoS Portal](https://github.com/maticnetwork/pos-portal)             | Proof of Stake portal for PoS Network.                                                         |
-| **Proposals**            | [Polygon Improvement Proposals](https://github.com/maticnetwork/Polygon-Improvement-Proposals)| Repository for Polygon Improvement Proposals.                                                    |
-| **SDKs and Libraries**   | [Matic.js](https://github.com/maticnetwork/matic.js)                 | JavaScript library for PoS Network.                                                            |
-| **DevOps**               | [Node Ansible](https://github.com/maticnetwork/node-ansible)         | Ansible scripts for node management.                                                            |
-|                          | [Terraform Polygon Supernets](https://github.com/maticnetwork/terraform-polygon-supernets)| Terraform scripts for Polygon Supernets.                                                        |
-| **Contracts**            | [Contracts](https://github.com/maticnetwork/contracts)               | Smart contracts for PoS Network.                                                              |
-|                          | [Genesis Contracts](https://github.com/maticnetwork/genesis-contracts)| Genesis contracts for PoS Network.                                                            |
-| **Proofs and APIs**      | [Proof Generation API](https://github.com/maticnetwork/proof-generation-api)| API for proof generation.                                                                       |
-| **Erigon**               | [Erigon](https://github.com/maticnetwork/erigon)                     | Erigon Ethereum client.                                                                         |
-| **Policies**             | [Policy at Polygon](https://github.com/maticnetwork/Policy-at-Polygon)| Policies at Polygon.                                                                            |
+| Kategori                  | Depo Adı                                                            | Açıklama                                                                                       |
+|---------------------------|---------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| **Çekirdek Bileşenler**   | [Heimdall](https://github.com/maticnetwork/heimdall)                 | PoS Ağı için Heimdall katmanı.                                                                 |
+|                           | [Bor](https://github.com/maticnetwork/bor)                           | PoS Ağı için Bor düğümü.                                                                       |
+|                           | [Tendermint](https://github.com/maticnetwork/tendermint)             | PoS uyumlu konsensus motoru için Tendermint çatalı.                                             |
+|                           | [Cosmos SDK](https://github.com/maticnetwork/cosmos-sdk)             | PoS Ağı için Cosmos SDK çatalı.                                                                 |
+| **Token Yönetimi**        | [Polygon Token Listesi](https://github.com/maticnetwork/polygon-token-list)| PoS ağındaki tokenlerin listesi.                                                              |
+|                           | [Polygon Token Varlıkları](https://github.com/maticnetwork/polygon-token-assets)| PoS ağı için token varlıkları.                                                                |
+| **Altgraflar**           | [Altgraflar](https://github.com/maticnetwork/subgraphs)              | PoS Ağı için altgraflar.                                                                       |
+| **CLI Araçları**          | [Matic CLI](https://github.com/maticnetwork/matic-cli)               | PoS Ağı için komut satırı arayüzü.                                                             |
+|                           | [Polygon CLI](https://github.com/maticnetwork/polygon-cli)           | Polygon için komut satırı arayüzü.                                                             |
+| **Gaz Yönetimi**          | [Matic Gaz İstasyonu](https://github.com/maticnetwork/maticgasstation)| PoS Ağı için gaz istasyonu.                                                                    |
+| **Portallar ve Köprüler** | [PoS Portal](https://github.com/maticnetwork/pos-portal)             | PoS Ağı için Kanıt Temelli Sahiplik (Proof of Stake) portalı.                                  |
+| **Teklifler**             | [Polygon İyileştirme Teklifleri](https://github.com/maticnetwork/Polygon-Improvement-Proposals)| Polygon İyileştirme Teklifleri için depo.                                                       |
+| **SDK'lar ve Kütüphaneler**| [Matic.js](https://github.com/maticnetwork/matic.js)                 | PoS Ağı için JavaScript kütüphanesi.                                                            |
+| **DevOps**                | [Düğüm Ansible](https://github.com/maticnetwork/node-ansible)         | Düğüm yönetimi için Ansible scriptleri.                                                         |
+|                           | [Terraform Polygon Supernets](https://github.com/maticnetwork/terraform-polygon-supernets)| Polygon Supernets için Terraform scriptleri.                                                    |
+| **Sözleşmeler**           | [Sözleşmeler](https://github.com/maticnetwork/contracts)             | PoS Ağı için akıllı sözleşmeler.                                                                |
+|                           | [Başlangıç Sözleşmeleri](https://github.com/maticnetwork/genesis-contracts)| PoS Ağı için başlangıç sözleşmeleri.                                                            |
+| **Kanıtlar ve API'ler**   | [Kanıt Oluşturma API](https://github.com/maticnetwork/proof-generation-api)| Kanıt oluşturma için API.                                                                       |
+| **Erigon**                | [Erigon](https://github.com/maticnetwork/erigon)                     | Erigon Ethereum istemcisi.                                                                      |
+| **Politikalar**           | [Polygon'da Politika](https://github.com/maticnetwork/Policy-at-Polygon)| Polygon'da politikalar.                                                                         |
 
 ---
 
